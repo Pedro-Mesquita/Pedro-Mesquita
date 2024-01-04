@@ -1,4 +1,4 @@
-## Hello there 👊 
+## Hello there!
 
 A student of computer science and web developer.
 
